@@ -32,7 +32,11 @@ Retos:
 -   Crear cuentas de desarrollador.
 -   Crear splash screen nativo.
 -   Empaquetamiento y firma de aplicaciones.
--   Despliegue a pruebas y ambientes productivos.![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892647-e73371cc-5ec2-485a-87d4-518397e404bb.png)![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892704-1150cc79-0915-43ce-ab4f-918550a100f4.png)
+-   Despliegue a pruebas y ambientes productivos.
+
+
+![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892647-e73371cc-5ec2-485a-87d4-518397e404bb.png)
+![a3_playstore](https://user-images.githubusercontent.com/30419292/172895125-988968f0-c1c3-4002-9b47-911ac05ff656.png)
 
 
 
