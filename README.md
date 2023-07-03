@@ -33,9 +33,7 @@ Es la versión móvil de una solución integral de inventarios diseñada para el
 
 ## Experiencia
 
-### Humant Talent (2012)
-
-NGROOT
+### NGROOT
 Mobile Developer
 - Implementación autenticación y autorización.
 - Integración de API Rest.
@@ -44,23 +42,17 @@ Mobile Developer
 - Uso de mapas interactivos.
 - Validación de formularios.
 
-Gecko Script
+### Gecko Script
 Mobile Developer
 - Diseño de interfaz
 - Implementación de calculos.
 - Integración de API Rest
 - Implementación de lector de codigo de barras con cámara del dispositivo.
 
-Coordinador de soporte y pruebas
--   QA. Pruebas a los sistemas
--   Soporte a clientes
--   DBM, responsable de las bases de datos productivas y desarrollo
--   
-### Freelance (2015)
-Migración de base de datos
--   Optimización de queries Mysql
--   Desarrollo de scripts PHP
--   Documentación
+### Conciliación Efectiva
+DBM
+-   Carga de datos a sistemas internos
+-   Generación de reportes
 
 ### Harso Technologies
 Coordinador mesa de servicio
@@ -68,8 +60,14 @@ Coordinador mesa de servicio
 -   Coordinación de personal
 -   Atención a clientes
 
-### Conciliación Efectiva
-DBM
--   Carga de datos a sistemas internos
--   Generación de reportes
-
+### Freelance (2015)
+Migración de base de datos
+-   Optimización de queries Mysql
+-   Desarrollo de scripts PHP
+-   Documentación
+  
+### Humant Talent (2012)
+Coordinador de soporte y pruebas
+-   QA. Pruebas a los sistemas
+-   Soporte a clientes
+-   DBM, responsable de las bases de datos productivas y desarrollo
