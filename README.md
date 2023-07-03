@@ -7,13 +7,12 @@ Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por a
 
 
 
-
 ![ex](https://github.com/gromeroortega/gromeroortega/assets/30419292/2aee54b8-f613-4355-9e06-5b33104d16bd)
 
 
 ### Calculadora A3 - Freelance (Abril 2022)
 
-Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base.
+Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base. https://play.google.com/store/apps/details?id=net.atres.calculator
 
 ![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892647-e73371cc-5ec2-485a-87d4-518397e404bb.png)
 ![a3_playstore](https://user-images.githubusercontent.com/30419292/172895125-988968f0-c1c3-4002-9b47-911ac05ff656.png)
