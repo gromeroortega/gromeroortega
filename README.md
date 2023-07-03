@@ -3,10 +3,12 @@ Soy una desarrolladora de aplicaciones móviles especializada en Flutter, con 3 
 
 ## Experiencia con Flutter
 ### Ex Cotizador
-Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base, genera archivos pdf que pueden ser compartidos por multiples medios y esta publicada en App Store y Play Store.
+Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base, genera archivos pdf que pueden ser compartidos por multiples medios y esta publicada en App Store y Play Store. https://play.google.com/store/apps/details?id=mx.ex.cotizador
 
-https://play.google.com/store/apps/details?id=mx.ex.cotizador
 
+
+
+![ex](https://github.com/gromeroortega/gromeroortega/assets/30419292/2aee54b8-f613-4355-9e06-5b33104d16bd)
 
 
 ### Calculadora A3 - Freelance (Abril 2022)
