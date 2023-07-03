@@ -1,61 +1,54 @@
 # Guadalupe Romero
-Soy una profesional en el área de TI, actualmente dedicando mi tiempo y energía en aprender y desarrollar aplicaciones móviles con Flutter.
+Soy una desarrolladora de aplicaciones móviles especializada en Flutter, con 3 años de experiencia en el campo. Durante mi trayectoria, he creado y lanzado exitosamente varias aplicaciones móviles, de las cuales dos están actualmente disponibles en la App Store y en Play Store. 
 
 ## Experiencia con Flutter
-### Flutter (Enero 2021)
-Estudié durante un año un curso de Flutter y sus múltiples actualizaciones.
+### Ex Cotizador
+Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base, genera archivos pdf que pueden ser compartidos por multiples medios y esta publicada en App Store y Play Store.
 
-Retos:
+https://play.google.com/store/apps/details?id=mx.ex.cotizador
 
--   Aprender a ser autodidacta y autodisciplinada.
--   Adaptar código a nuevas versiones de Flutter, especialmente cuando se implementó NullSafety.
--   Usar REST API y REST auth con Firebase (autenticaciones, autorizaciones y sesiones).
--   Uso de storage nativo para almacenamiento de preferencia de usuarios.
--   Despliegue AppStore y PlayStore de aplicaciones productivas.
--   Comprender documentación de Flutter.
 
-### Dart (Enero 2022)
-Estudié durante dos meses un curso exclusivamente de Dart para afianzar conocimientos sobre el lenguaje.
-
-Retos:
-
--   Trabajar sobre tipos de datos y sus métodos.
--   Comprender como usar documentación de Dart.
--   Manejo de listas y mapas.
--   Comprender tipos de clases.
 
 ### Calculadora A3 - Freelance (Abril 2022)
-Desarrollé una aplicación que calcula con base en una inversión los rendimientos y el capital logrado en un período de 10 años. Esta aplicación está en proceso de liberación para las tiendas de aplicaciones Play Store y AppStore.
 
-Retos:
-
--   Crear cuentas de desarrollador.
--   Crear splash screen nativo.
--   Empaquetamiento y firma de aplicaciones.
--   Despliegue a pruebas y ambientes productivos.
-
+Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base.
 
 ![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892647-e73371cc-5ec2-485a-87d4-518397e404bb.png)
 ![a3_playstore](https://user-images.githubusercontent.com/30419292/172895125-988968f0-c1c3-4002-9b47-911ac05ff656.png)
 
-
-
 ### Ventory (Actual) - Freelance
-Actualmente estoy desarrollando una aplicación de inventarios automatizados para una empresa de ciberseguridad.
+Es la versión móvil de una solución integral de inventarios diseñada para el uso en áreas de ciberseguridad y administración de activos tecnológicos. Permite gestionar y realizar un seguimiento de inventarios tecnológicos. Usa flutter, clean architecture e integración de API Rest.
 
-Retos:
+## Siklls
 
--   Estructurar un proyecto desde cero.
--   Usar API para la obtención de información y autenticación.
--   Manejo de peticiones asíncronas.
--   Trabajar en equipo con los desarrolladores de front end y back end.
--   Implementación de provider para manejo de estados.
--   Implementación de paquetes para generación de gráficas.
-
+- Manejo de estado con flutter BLoC, Cubit y Provider.
+- Clean Architecture.
+- Integración de APIs Rest.
+- Integraciones con paquetes Signature, Secure Storage, PDF, lector de códigos de barras, MapBox (Google Maps), Equatable, Dartz, Formz, Fire Base Auth y Fire Base Firestore.
+- Implementación segura de Autenticación y Autorización.
+- Manejo de errores.
+- Capacidad para resolver problemas y aprendizaje auto dirigido
+- Entusiasta de la programación y el aprendizaje
 
 ## Experiencia
 
 ### Humant Talent (2012)
+
+NGROOT
+Mobile Developer
+- Implementación autenticación y autorización.
+- Integración de API Rest.
+- Definicion de arquitectura.
+- Generación y firma de PDFs.
+- Uso de mapas interactivos.
+- Validación de formularios.
+
+Gecko Script
+Mobile Developer
+- Diseño de interfaz
+- Implementación de calculos.
+- Integración de API Rest
+- Implementación de lector de codigo de barras con cámara del dispositivo.
 
 Coordinador de soporte y pruebas
 -   QA. Pruebas a los sistemas
