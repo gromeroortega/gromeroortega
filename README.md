@@ -1,73 +1,31 @@
-# Guadalupe Romero
-Soy una desarrolladora de aplicaciones móviles especializada en Flutter, con 3 años de experiencia en el campo. Durante mi trayectoria, he creado y lanzado exitosamente varias aplicaciones móviles, de las cuales dos están actualmente disponibles en la App Store y en Play Store. 
-
-## Experiencia con Flutter
-### Ex Cotizador
-Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base, genera archivos pdf que pueden ser compartidos por multiples medios y esta publicada en App Store y Play Store. https://play.google.com/store/apps/details?id=mx.ex.cotizador
 
 
+![App Developer (2)](https://github.com/gromeroortega/gromeroortega/assets/30419292/6b78543c-8a8f-45f8-9159-bfe4c07c68e0)
+<br><br><br>
+<h1 align="center">Hi 👋, I'm Guadalupe Romero</h1>
+<h3 align="center">I am a passionate 💙Flutter developer💙 </h3>
+<br>
+ I am a mobile application developer specialized in Flutter, with 3 years of experience in the field. During my career, I have successfully created and launched several mobile applications, two of which are currently available on the App Store and Play Store.
+<br><br>
 
-![ex](https://github.com/gromeroortega/gromeroortega/assets/30419292/2aee54b8-f613-4355-9e06-5b33104d16bd)
+- 🔭 I’m currently working on Create [Youtube Clone](https://github.com/gromeroortega/youtubeclone) whit Swift.
 
+- 🌱 I’m currently learning **Swift and SwiftUI**
 
-### Calculadora A3 - Freelance (Abril 2022)
+- 💬 Ask me about **Flutter, Dart, Rest API integration with flutter, Authentication with FireBase.**
 
-Cotizador finaciero que calcula rendimientos de inversiones y es utilizada por agentes de la financiera, desarrolllada con flutter y clean architecture, utiliza un metodo de autenticación con fire base. https://play.google.com/store/apps/details?id=net.atres.calculator
+- 📫 How to reach me **gromeroortega@outlook.com**
 
-![Screen Shot 2022-05-25 at 12 23 19](https://user-images.githubusercontent.com/30419292/172892647-e73371cc-5ec2-485a-87d4-518397e404bb.png)
-![a3_playstore](https://user-images.githubusercontent.com/30419292/172895125-988968f0-c1c3-4002-9b47-911ac05ff656.png)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guadalupe-romero-ortega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guadalupe-romero-ortega" height="30" width="40" /></a>
+</p>
 
-### Ventory (Actual) - Freelance
-Es la versión móvil de una solución integral de inventarios diseñada para el uso en áreas de ciberseguridad y administración de activos tecnológicos. Permite gestionar y realizar un seguimiento de inventarios tecnológicos. Usa flutter, clean architecture e integración de API Rest.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
 
-## Siklls
-
-- Manejo de estado con flutter BLoC, Cubit y Provider.
-- Clean Architecture.
-- Integración de APIs Rest.
-- Integraciones con paquetes Signature, Secure Storage, PDF, lector de códigos de barras, MapBox (Google Maps), Equatable, Dartz, Formz, Fire Base Auth y Fire Base Firestore.
-- Implementación segura de Autenticación y Autorización.
-- Manejo de errores.
-- Capacidad para resolver problemas y aprendizaje auto dirigido
-- Entusiasta de la programación y el aprendizaje
-
-## Experiencia
-
-### NGROOT
-Mobile Developer
-- Implementación autenticación y autorización.
-- Integración de API Rest.
-- Definicion de arquitectura.
-- Generación y firma de PDFs.
-- Uso de mapas interactivos.
-- Validación de formularios.
-
-### Gecko Script
-Mobile Developer
-- Diseño de interfaz
-- Implementación de calculos.
-- Integración de API Rest
-- Implementación de lector de codigo de barras con cámara del dispositivo.
-
-### Conciliación Efectiva
-DBM
--   Carga de datos a sistemas internos
--   Generación de reportes
-
-### Harso Technologies
-Coordinador mesa de servicio
--   Implementación mesa de servicio
--   Coordinación de personal
--   Atención a clientes
-
-### Freelance (2015)
-Migración de base de datos
--   Optimización de queries Mysql
--   Desarrollo de scripts PHP
--   Documentación
-  
-### Humant Talent (2012)
-Coordinador de soporte y pruebas
--   QA. Pruebas a los sistemas
--   Soporte a clientes
--   DBM, responsable de las bases de datos productivas y desarrollo
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gromeroortega&show_icons=true&locale=en&layout=compact" alt="gromeroortega" /></p>
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gromeroortega&show_icons=true&locale=en" alt="gromeroortega" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gromeroortega&" alt="gromeroortega" /></p>
