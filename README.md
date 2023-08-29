@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Create [Youtube Clone](https://github.com/gromeroortega/youtubeclone) whit Swift.
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Swift, SwiftUI and Docker**
 
 - 💬 Ask me about **Flutter, Dart, Rest API integration with flutter, Authentication with FireBase.**
 
